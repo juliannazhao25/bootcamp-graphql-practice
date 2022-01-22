@@ -2,7 +2,6 @@
 
 const welcome = async () => 'GraphQL Exercises!'
 
-
 // This resolver object mirrors the shape of your TypeDefs
 const resolver = {
   Query: { welcome },

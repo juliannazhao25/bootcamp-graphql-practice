@@ -6,5 +6,4 @@ class Address extends BaseModel {
   }
 }
 
-
 module.exports = Address
